@@ -212,6 +212,23 @@ max-width: 540px;
     margin:0 auto;
     filter: grayscale(100%);
     margin-bottom: 50px;
+  }  
+
+  /*footer style*/
+  .simple-footer{
+    max-width:620px ;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+     
+  }
+
+  .simple-footer{
+    max-width: 1000px;
+    background-color:#FFF4E7 ;
+    padding:15px;
+    border-radius: 8px;
+    font-size:1.24rem ;
   }
 
  
